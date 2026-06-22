@@ -1,5 +1,7 @@
 # The UK Network of BioImage Analysts
 
+<center><img src="assets/logos/red-blue-filled-light.png" width="20%"></center>
+
 ## Virtual bioimage analysis service \- open to all
 
 Expert image analysis has become a critical bottleneck in life science research \- one that only deepens as imaging technologies continue to advance. As the first dedicated bioimage analysis service within the UK Node of Euro-BioImaging, UK-BIAS brings together leading specialists from ten UK institutions to address this challenge, complementing instrument access with image data analysis capabilities.
